@@ -1,0 +1,2 @@
+0 Windows magma admin
+1 python node user
